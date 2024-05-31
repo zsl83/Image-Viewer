@@ -1,4 +1,4 @@
-<img width="1112" alt="3" src="https://github.com/zsl83/Image-Viewer/assets/153368672/40db4b04-0c5f-4185-8f80-c1bd6a1a668e"><img width="1112" alt="3" src="https://github.com/zsl83/Image-Viewer/assets/153368672/40db4b04-0c5f-4185-8f80-c1bd6a1a668e"><img width="1112" alt="3" src="https://github.com/zsl83/Image-Viewer/assets/153368672/40db4b04-0c5f-4185-8f80-c1bd6a1a668e">Image Viewer 
+Image Viewer 
 This program is written in Java language.
 This program allows you to choose an image from your computer and perform several operations on it, including displaying the image, resizing it, adjusting its brightness, and converting it to grayscale.
 When the program is executed, the following sequence of events occurs:
@@ -45,25 +45,31 @@ Each transformation results in a new window displaying the modified image.
 
 Below you can see pictures of the program and examples of it.
 
-
+Main page 
 <img width="513" alt="1" src="https://github.com/zsl83/Image-Viewer/assets/153368672/ffb4e2e7-94a2-40b8-9e9c-9e5f05735c83">
 
+page for choose photo from computer
 <img width="375" alt="2" src="https://github.com/zsl83/Image-Viewer/assets/153368672/7c4b35dc-15de-4ea9-af25-e91d10246619">
 
-
+ show selected photo
 <img width="1112" alt="3" src="https://github.com/zsl83/Image-Viewer/assets/153368672/a610de4b-4adc-4c80-a9e6-fc0c583d2f1c">
 
+resize page (enter width and height )
+<img width="510" alt="7" src="https://github.com/zsl83/Image-Viewer/assets/153368672/26d5ffad-f7f5-4c84-a2a1-4eb1eb1dd998">
+
+photo with new size
+<img width="375" alt="8" src="https://github.com/zsl83/Image-Viewer/assets/153368672/2b2fc382-12d2-456c-9f9f-8adab49379f6">
+
+brightness page (enter number between 0 to 1)
 <img width="512" alt="4" src="https://github.com/zsl83/Image-Viewer/assets/153368672/ed16a654-234e-474e-94b8-c32fea4ee5a7">
 
+Photo with brightness entered
+<img width="1112" alt="6-" src="https://github.com/zsl83/Image-Viewer/assets/153368672/2dade89c-03ff-49d0-8b87-1acd77142235">
+
+Gray Scale page 
 <img width="1114" alt="5" src="https://github.com/zsl83/Image-Viewer/assets/153368672/4c53d3e9-526f-4bb6-94ac-63e1920b88b5">
 
 
-<img width="1112" alt="6-" src="https://github.com/zsl83/Image-Viewer/assets/153368672/2dade89c-03ff-49d0-8b87-1acd77142235">
-
-
-<img width="510" alt="7" src="https://github.com/zsl83/Image-Viewer/assets/153368672/26d5ffad-f7f5-4c84-a2a1-4eb1eb1dd998">
-
-<img width="375" alt="8" src="https://github.com/zsl83/Image-Viewer/assets/153368672/2b2fc382-12d2-456c-9f9f-8adab49379f6">
 
 
 
