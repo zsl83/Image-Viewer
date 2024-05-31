@@ -6,7 +6,7 @@ When the program is executed, the following sequence of events occurs:
 
 1. Launch Application:
 
-The main window of the "Image Viewer" application is displayed with several buttons: "Choose Image", "Show Image", "Brightness", "Gray scale", "Resize", and "Exit".
+ The main window of the "Image Viewer" application is displayed with several buttons: "Choose Image", "Show Image", "Brightness", "Gray scale", "Resize", and "Exit".
 
 2. Choose Image:
 
@@ -34,12 +34,11 @@ After entering the brightness factor and clicking "Result", a new window opens d
 
 7. Exit Application:
 
-Clicking the "Exit" button closes the application.
+ Clicking the "Exit" button closes the application.
 
 8. Navigation:
 
-In the resize and brightness panels, there is a "Back" button that returns the user to the main panel.
-
-
+In the resize and brightness panels, there is a "Back" button that returns the user to the main panel.  
+    
 This sequence allows the user to select an image, view it, convert it to grayscale, resize it, adjust its brightness, and navigate back and forth between different panels of the application. 
 Each transformation results in a new window displaying the modified image.
