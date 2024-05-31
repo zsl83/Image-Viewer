@@ -42,3 +42,12 @@ In the resize and brightness panels, there is a "Back" button that returns the u
     
 This sequence allows the user to select an image, view it, convert it to grayscale, resize it, adjust its brightness, and navigate back and forth between different panels of the application. 
 Each transformation results in a new window displaying the modified image.
+
+
+<img width="513" alt="1" src="https://github.com/zsl83/Image-Viewer/assets/153368672/ffb4e2e7-94a2-40b8-9e9c-9e5f05735c83">
+<img width="513" alt="1" src="https://github.com/zsl83/Image-Viewer/assets/153368672/ffb4e2e7-94a2-40b8-9e9c-9e5f05735c83">
+<img width="513" alt="1" src="https://github.com/zsl83/Image-Viewer/assets/153368672/ffb4e2e7-94a2-40b8-9e9c-9e5f05735c83">
+<img width="513" alt="1" src="https://github.com/zsl83/Image-Viewer/assets/153368672/4bca27a8-5e82-45b1-99f7-3299bdd94903">
+<img width="513" alt="1" src="https://github.com/zsl83/Image-Viewer/assets/153368672/4bca27a8-5e82-45b1-99f7-3299bdd94903">
+<img width="513" alt="1" src="https://github.com/zsl83/Image-Viewer/assets/153368672/4bca27a8-5e82-45b1-99f7-3299bdd94903">
+
